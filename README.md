@@ -22,7 +22,8 @@ The primary goal of this project is to provide valuable insights into sales data
 
 To access and explore the Looker Studio dashboard, follow these steps:
 
-1. **Click on this link:**  https://lookerstudio.google.com/reporting/b03acc6d-c6ed-43eb-9ac0-0b9625f68396
+1. **Click on this link:**  <a href="https://lookerstudio.google.com/reporting/b03acc6d-c6ed-43eb-9ac0-0b9625f68396" target="_blank">Looker Studio Dashboard</a>
+
 
 2. **Access Looker Studio:** Sign in to your Looker Studio account or create one if you don't have an account already.
 
